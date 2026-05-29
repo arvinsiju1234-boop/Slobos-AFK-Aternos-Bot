@@ -6,16 +6,16 @@
     "type": "online"
   },
   "server": {
-    "ip": "SHUPPANDI.aternos.me",
+    "ip": "shuppandi.aternos.me",
     "port":26393,
     "version": "",
     "try-creative": false
   },
   "position": {
     "enabled": true,
-    "x": 0,
+    "x": -589,
     "y": 100,
-    "z": 0
+    "z": 1234
   },
   "utils": {
     "auto-auth": {
